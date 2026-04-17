@@ -7,7 +7,7 @@ permalink: /competition/2026/computer-teams/
 # Computer Teams — QANTA 2026
 
 QANTA 2026 is the first quiz bowl competition to include **multimodal questions** — text clues combined with images. AI systems must handle both modalities to compete.
-
+This page describes the shared challenge associated with the [ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA)](/competition/2026/call-for-papers/).
 > Join the community on [Discord](https://discord.gg/pfdfaygr).
 
 For the current rules, see the [rules overview](/competition/2026/rules/) and the [computer rules](/competition/2026/rules/computer/).
