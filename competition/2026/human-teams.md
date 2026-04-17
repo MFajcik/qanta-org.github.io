@@ -11,6 +11,7 @@ Play in QANTA 2026 — the first quiz bowl competition to include **multimodal q
 > Join the community on [Discord](https://discord.gg/pfdfaygr).
 
 For the current rules, see the [rules overview](/competition/2026/rules/) and the [human rules](/competition/2026/rules/human/).
+This page describes the live human competition associated with the [ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA)](/competition/2026/call-for-papers/).
 
 ## Format
 
